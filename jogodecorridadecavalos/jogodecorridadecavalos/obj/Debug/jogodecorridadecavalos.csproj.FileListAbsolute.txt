@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\jogodecorridadecavalos\jogodecorridadecavalos\bin\Debug\jogodecorridadecavalos.exe.config
+C:\Users\User\source\repos\jogodecorridadecavalos\jogodecorridadecavalos\bin\Debug\jogodecorridadecavalos.exe
+C:\Users\User\source\repos\jogodecorridadecavalos\jogodecorridadecavalos\bin\Debug\jogodecorridadecavalos.pdb
+C:\Users\User\source\repos\jogodecorridadecavalos\jogodecorridadecavalos\obj\Debug\jogodecorridadecavalos.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\jogodecorridadecavalos\jogodecorridadecavalos\obj\Debug\jogodecorridadecavalos.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\jogodecorridadecavalos\jogodecorridadecavalos\obj\Debug\jogodecorridadecavalos.Form1.resources
+C:\Users\User\source\repos\jogodecorridadecavalos\jogodecorridadecavalos\obj\Debug\jogodecorridadecavalos.Properties.Resources.resources
+C:\Users\User\source\repos\jogodecorridadecavalos\jogodecorridadecavalos\obj\Debug\jogodecorridadecavalos.csproj.GenerateResource.cache
+C:\Users\User\source\repos\jogodecorridadecavalos\jogodecorridadecavalos\obj\Debug\jogodecorridadecavalos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\jogodecorridadecavalos\jogodecorridadecavalos\obj\Debug\jogodecorridadecavalos.exe
+C:\Users\User\source\repos\jogodecorridadecavalos\jogodecorridadecavalos\obj\Debug\jogodecorridadecavalos.pdb
